@@ -1,0 +1,15 @@
+{
+  "name": "ntest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nopodofo": "https://github.com/corymickelson/NoPoDoFo/releases/download/v1.0.0/nopodofo-v1.0.0-linux-aws-x64.tar.gz",
+    "nopodofolambda": "^1.0.0"
+  }
+}
